@@ -1,4 +1,4 @@
-# [Unity-Test] <Vyacheslav Elistratov>
+# [Unity-Test] Vyacheslav Elistratov
 
 Test Task Unity Developer
 
