@@ -3,7 +3,7 @@
 Test Task Unity Developer
 
 You can download compiled project here (PC Win)
-https://drive.google.com/file/d/1WhXMNDfzBn248wQvZS9oQpYCKWNbswTx/view?usp=sharing
+https://drive.google.com/file/d/1M83IWgvGnIbbibUcVGiMKSovxKGHxaiA/view?usp=share_link
 
 Unity ver. 2021.2.11f1
 Plugins: DOTween
