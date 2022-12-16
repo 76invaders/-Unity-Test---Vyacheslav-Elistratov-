@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1a6c3c31d8637204586453666a8be7b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _cardTemplate: {instanceID: 0}
+  - _cardArt: {instanceID: 0}
+  - _cardCover: {instanceID: 0}
+  - _cardName: {instanceID: 0}
+  - _cardDescription: {instanceID: 0}
+  - _counterPrefab: {fileID: 8273311303740586887, guid: dc3263c62822e7e4ca7bf3bc9728346a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
